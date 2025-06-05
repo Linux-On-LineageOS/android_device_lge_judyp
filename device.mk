@@ -79,3 +79,4 @@ PRODUCT_PACKAGES += \
 
 # Get non-open-source specific aspects
 $(call inherit-product, vendor/lge/judyp/judyp-vendor.mk)
+$(call inherit-product, vendor/lindroid/lindroid.mk)
